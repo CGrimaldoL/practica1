@@ -1,3 +1,5 @@
 # practica1
 
-Empezando con Git
+Empezando con GitHub
+
+Pues si que es chulo esto
